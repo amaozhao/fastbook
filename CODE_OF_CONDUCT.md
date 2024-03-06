@@ -1,77 +1,48 @@
-# Contributor Covenant Code of Conduct
+# 贡献者公约行为守则
 
-## Our Pledge
+## 我们的承诺
 
-In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to make participation in our project and
-our community a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, gender identity and expression, level of experience,
-education, socio-economic status, nationality, personal appearance, race,
-religion, or sexual identity and orientation.
+为了营造一个开放和友好的环境，我们作为贡献者和维护者承诺，使我们的项目和社区成为每个人的无骚扰体验，无论年龄、体型、残疾、种族、性别认同和表达、经验水平、教育、社会经济地位、国籍、个人外貌、种族、宗教或性身份和取向。
 
-Examples of unacceptable behavior by participants include:
+参与者不可接受的行为示例包括：
 
-* The use of sexualized language or imagery and unwelcome sexual attention or
-  advances
-* Trolling, insulting/derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or electronic
-  address, without explicit permission
+* 使用性化语言或图像以及不受欢迎的性关注或进展
+* 网络钓鱼、侮辱/贬低性评论以及个人或政治攻击
+* 公开或私下骚扰
+* 在未经明确许可的情况下发布他人的私人信息，如物理或电子地址
 
-These examples of unacceptable behaviour are requirements; we will not allow them
-in any fast.ai project, including this one.
+这些不可接受行为的示例是要求；我们在任何fast.ai项目中都不会允许它们，包括这个项目。
 
-## Our Standards
+## 我们的标准
 
-Examples of behavior that contributes to creating a positive environment
-include:
+有助于营造积极环境的行为示例包括：
 
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
-* Gracefully accepting constructive criticism
-* Focusing on what is best for the community
-* Showing empathy towards other community members
+* 使用欢迎和包容的语言
+* 尊重不同的观点和经验
+* 优雅地接受建设性批评
+* 关注社区的最佳利益
+* 对其他社区成员表现出同情心
 
-These examples are shown only to help you participate effectively -- they are not
-requirements, just requests and guidance.
+这些示例仅用于帮助您有效参与——它们不是要求，只是请求和指导。
 
-## Our Responsibilities
+## 我们的责任
 
-Project maintainers are responsible for clarifying the standards of acceptable
-behavior and are expected to take appropriate and fair corrective action in
-response to any instances of unacceptable behavior.
+项目维护者负责澄清可接受行为的标准，并应采取适当和公正的纠正措施，以应对任何不可接受行为的实例。
 
-Project maintainers have the right and responsibility to remove, edit, or
-reject comments, commits, code, wiki edits, issues, and other contributions
-that are not aligned to this Code of Conduct, or to ban temporarily or
-permanently any contributor for other behaviors that they deem inappropriate,
-threatening, offensive, or harmful.
+项目维护者有权和责任删除、编辑或拒绝不符合本行为守则的评论、提交、代码、维基编辑、问题和其他贡献，或暂时或永久禁止他们认为不当、威胁性、冒犯性或有害的任何贡献者。
 
-## Scope
+## 范围
 
-This Code of Conduct applies both within project spaces and in public spaces
-when an individual is representing the project or its community. Examples of
-representing a project or community include using an official project e-mail
-address, posting via an official social media account or acting as an appointed
-representative at an online or offline event. Representation of a project may be
-further defined and clarified by project maintainers.
+本行为守则适用于项目空间内以及个人代表项目或其社区在公共空间的行为。代表项目或社区的示例包括使用官方项目电子邮件地址、通过官方社交媒体账户发布或作为在线或线下活动的指定代表。项目的代表可能由项目维护者进一步定义和澄清。
 
-## Enforcement
+## 执行
 
-Instances of abusive, harassing or otherwise unacceptable behavior may be
-reported by contacting the project team at info@fast.ai. All
-complaints will be reviewed and investigated and will result in a response that
-is deemed necessary and appropriate to the circumstances. The project team is
-obligated to maintain confidentiality with regard to the reporter of an incident.
-Further details of specific enforcement policies may be posted separately.
+滥用、骚扰或其他不可接受行为的实例可以通过联系项目团队info@fast.ai进行报告。所有投诉都将被审查和调查，并将在认为必要和适当的范围内作出回应。项目团队有义务对事件报告者保密。具体的执行政策细节可能会单独发布。
 
-Project maintainers who do not follow or enforce the Code of Conduct in good
-faith may face temporary or permanent repercussions as determined by other
-members of the project's leadership.
+不以善意遵循或执行行为守则的项目维护者可能会面临临时或永久的后果，由项目的其他领导成员决定。
 
-## Attribution
+## 归属
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
-available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
+本行为守则改编自[贡献者公约][主页]版本1.4，可在https://www.contributor-covenant.org/version/1/4/code-of-conduct.html获取。
 
-[homepage]: https://www.contributor-covenant.org
+[主页]: https://www.contributor-covenant.org
